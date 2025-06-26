@@ -10,6 +10,7 @@ import logging
 import time
 from functools import wraps
 from urllib.parse import quote
+from urllib.parse import urlparse
 from waybackpy import WaybackMachineSaveAPI
 
 # -- configurations begin --
