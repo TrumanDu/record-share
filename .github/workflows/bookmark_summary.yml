@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - "**.md"
+      - "README.md"
   workflow_dispatch:
 
 concurrency:

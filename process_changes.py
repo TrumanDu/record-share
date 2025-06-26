@@ -62,6 +62,28 @@ def submit_to_wayback_machine(url: str):
 
 @log_execution_time
 def get_text_content(url: str) -> str:
+        # Check if the URL is a GitHub repository root page
+    if url.startswith("https://github.com/"):
+        parsed_url = urlparse(url)
+        path_parts = parsed_url.path.strip("/").split("/")
+        
+        # Ensure URL has exactly 2 path components (owner/repo)
+        if len(path_parts) == 2:
+            owner, repo = path_parts
+            # Construct raw README URL
+            raw_url = f"https://raw.githubusercontent.com/{owner}/{repo}/main/README.md"
+            response = requests.get(raw_url)
+            
+            # Handle valid README response
+            if response.status_code == 200:
+                content = response.text
+                if len(content) > MAX_CONTENT_LENGTH:
+                    logging.warning(f"Content length ({len(content)}) exceeds maximum ({MAX_CONTENT_LENGTH}), truncating...")
+                    content = content[:MAX_CONTENT_LENGTH]
+                return content
+            else:
+                logging.warning(f"Failed to fetch README.md (HTTP {response.status_code}), falling back to original method")
+
     jina_url: str = f"https://r.jina.ai/{url}"
     response: requests.Response = requests.get(jina_url)
     content = response.text
@@ -229,7 +251,12 @@ def process_bookmark_file():
         with open(monthly_md_path, 'a', encoding='utf-8') as f:
             f.write(f"\n\n{summary_file_content}\n")
         
-
+        summarized_bookmarks.append(SummarizedBookmark(
+            month=CURRENT_MONTH,
+            title=title,
+            url=url,
+            timestamp=timestamp
+        ))
         # Update data.json
         with open(f'{BOOKMARK_SUMMARY_REPO_NAME}/data.json', 'w', encoding='utf-8') as f:
             json.dump([asdict(bookmark) for bookmark in summarized_bookmarks], f, indent=2, ensure_ascii=False)
