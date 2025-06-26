@@ -115,8 +115,25 @@ def call_openai_api(prompt: str, content: str) -> str:
 @log_execution_time
 def summarize_text(text: str) -> str:
     prompt: str = """
-结构化总结这篇文章。输出时使用简体中文。
-输出时直接给出总结内容，不需要附带“以下是总结”的开始文字或额外的标题。
+### 角色
+
+假设你是一个IT技术周刊的编辑角色,总结这篇文章。
+
+### 输出要求
+
+1. 要求返回字数在100-200,能够准确描述文章内容。不要输出和给定内容无关的信息。
+2. 输出时使用简体中文。
+3. 输出时直接给出总结内容，不需要附带“以下是总结”的开始文字或额外的标题。
+4. 如果文章内容中有图片，选择一张能表示项目或者产品的截图，一般情况下为文章内容首图，没有图片则不要展示图片。
+5. 严格按照输出格式。
+6. 不要输出例子
+
+### 输出例子
+
+![油桃TV](https://static.trumandu.top/yank-note-picgo-img-20250307214451.png)
+
+油桃 TV 电视浏览器 可看各大卫视 CCTV 直播 无需电视 VIP 适配爱奇艺等主流视频平台
+
 """
     return call_openai_api(prompt, text)
 
@@ -212,16 +229,6 @@ def process_bookmark_file():
         with open(monthly_md_path, 'a', encoding='utf-8') as f:
             f.write(f"\n\n{summary_file_content}\n")
         
-        # Update bookmark-summary/README.md
-        summarized_bookmarks.append(SummarizedBookmark(
-            month=CURRENT_MONTH,
-            title=title,
-            url=url,
-            timestamp=timestamp
-        ))
-
-        # with open(f'{BOOKMARK_SUMMARY_REPO_NAME}/README.md', 'w', encoding='utf-8') as f:
-        #     f.write(build_summary_readme_md(summarized_bookmarks))
 
         # Update data.json
         with open(f'{BOOKMARK_SUMMARY_REPO_NAME}/data.json', 'w', encoding='utf-8') as f:
