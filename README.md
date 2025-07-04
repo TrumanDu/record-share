@@ -1,3 +1,4 @@
+- [rustfs/rustfs](https://github.com/rustfs/rustfs)
 - [Safe3/uuWAF](https://github.com/Safe3/uuWAF)
 - [AkiraBit/PicSharp](https://github.com/AkiraBit/PicSharp)
 - [go-dev-frame/sponge](https://github.com/go-dev-frame/sponge)
