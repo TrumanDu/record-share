@@ -1,3 +1,4 @@
+- [pallets/click](https://github.com/pallets/click)
 - [Textualize/rich](https://github.com/Textualize/rich)
 - [rustfs/rustfs](https://github.com/rustfs/rustfs)
 - [Safe3/uuWAF](https://github.com/Safe3/uuWAF)
