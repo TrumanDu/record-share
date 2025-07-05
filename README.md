@@ -1,3 +1,4 @@
+- [Textualize/rich](https://github.com/Textualize/rich)
 - [rustfs/rustfs](https://github.com/rustfs/rustfs)
 - [Safe3/uuWAF](https://github.com/Safe3/uuWAF)
 - [AkiraBit/PicSharp](https://github.com/AkiraBit/PicSharp)
