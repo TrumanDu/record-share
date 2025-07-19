@@ -1,3 +1,4 @@
+- [fosrl/pangolin](https://github.com/fosrl/pangolin)
 - [‌﻿⁢​​﻿​‍⁢‬⁡⁣⁤​⁤⁢‌‬​⁣​⁤﻿‬‌​⁢​﻿﻿‌⁤⁢​‍⁡‍⁡﻿⁢‌⁢​⁢​⁤‬⁡​AI插画自动化与变现全流程实操手册 - Feishu Docs](https://qvokpfxqsh.feishu.cn/wiki/KJMgwMn0wiXeiqkFvHHcHFxAn8B)
 - [liriliri/rem](https://github.com/liriliri/rem)
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
