@@ -1,3 +1,4 @@
+- [gnmyt/MySpeed](https://github.com/gnmyt/MySpeed)
 - [gzzhongqi/geminicli2api](https://github.com/gzzhongqi/geminicli2api)
 - [murtaza-nasir/pdf3md](https://github.com/murtaza-nasir/pdf3md)
 - [fosrl/pangolin](https://github.com/fosrl/pangolin)
