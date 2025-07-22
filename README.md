@@ -1,3 +1,4 @@
+- [gzzhongqi/geminicli2api](https://github.com/gzzhongqi/geminicli2api)
 - [murtaza-nasir/pdf3md](https://github.com/murtaza-nasir/pdf3md)
 - [fosrl/pangolin](https://github.com/fosrl/pangolin)
 - [‌﻿⁢​​﻿​‍⁢‬⁡⁣⁤​⁤⁢‌‬​⁣​⁤﻿‬‌​⁢​﻿﻿‌⁤⁢​‍⁡‍⁡﻿⁢‌⁢​⁢​⁤‬⁡​AI插画自动化与变现全流程实操手册 - Feishu Docs](https://qvokpfxqsh.feishu.cn/wiki/KJMgwMn0wiXeiqkFvHHcHFxAn8B)
