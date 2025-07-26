@@ -112,5 +112,11 @@
     "title": "gnmyt/MySpeed",
     "url": "https://github.com/gnmyt/MySpeed",
     "timestamp": 1753174303
+  },
+  {
+    "month": "202507",
+    "title": "autoscrape-labs/pydoll: Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.",
+    "url": "https://github.com/autoscrape-labs/pydoll",
+    "timestamp": 1753508777
   }
 ]
