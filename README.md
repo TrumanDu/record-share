@@ -1,3 +1,4 @@
+- [zenangst/KeyboardCowboy: :keyboard: The missing keyboard shortcut utility for macOS](https://github.com/zenangst/KeyboardCowboy)
 - [Conxt/WindowGlue](https://github.com/Conxt/WindowGlue)
 - [autoscrape-labs/pydoll: Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.](https://github.com/autoscrape-labs/pydoll)
 - [gnmyt/MySpeed](https://github.com/gnmyt/MySpeed)
