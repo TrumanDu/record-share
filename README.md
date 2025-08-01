@@ -1,3 +1,4 @@
+- [hzbd/imagekit](https://github.com/hzbd/imagekit)
 - [zumerlab/snapdom: snapDOM captures HTML elements to images with exceptional speed and accuracy.](https://github.com/zumerlab/snapdom)
 - [zenangst/KeyboardCowboy: :keyboard: The missing keyboard shortcut utility for macOS](https://github.com/zenangst/KeyboardCowboy)
 - [Conxt/WindowGlue](https://github.com/Conxt/WindowGlue)
