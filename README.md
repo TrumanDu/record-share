@@ -1,3 +1,4 @@
+- [AI代理的上下文工程：构建Manus的经验教训](https://manus.im/zh-cn/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus)
 - [LunarBar-app/LunarBar](https://github.com/LunarBar-app/LunarBar)
 - [hzbd/imagekit](https://github.com/hzbd/imagekit)
 - [zumerlab/snapdom: snapDOM captures HTML elements to images with exceptional speed and accuracy.](https://github.com/zumerlab/snapdom)
