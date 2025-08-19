@@ -1,3 +1,4 @@
+- [一个半月高强度 Claude Code ：Vibe coding 是一种全新的思维模式](https://mp.weixin.qq.com/s/fP3kU-O5mbSO8ZS04gowCw)
 - [AI代理的上下文工程：构建Manus的经验教训](https://manus.im/zh-cn/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus)
 - [LunarBar-app/LunarBar](https://github.com/LunarBar-app/LunarBar)
 - [hzbd/imagekit](https://github.com/hzbd/imagekit)
