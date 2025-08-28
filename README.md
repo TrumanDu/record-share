@@ -1,3 +1,4 @@
+- [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
 - [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable)
 - [audreyfeldroy/cookiecutter-pypackage](https://github.com/audreyfeldroy/cookiecutter-pypackage)
 - [一个半月高强度 Claude Code ：Vibe coding 是一种全新的思维模式](https://mp.weixin.qq.com/s/fP3kU-O5mbSO8ZS04gowCw)
