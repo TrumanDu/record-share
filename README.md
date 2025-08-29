@@ -1,3 +1,4 @@
+- [plutoprint/plutoprint](https://github.com/plutoprint/plutoprint)
 - [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
 - [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable)
 - [audreyfeldroy/cookiecutter-pypackage](https://github.com/audreyfeldroy/cookiecutter-pypackage)
