@@ -1,3 +1,4 @@
+- [facebookresearch/hydra](https://github.com/facebookresearch/hydra)
 - [karminski/one-small-step](https://github.com/karminski/one-small-step)
 - [plutoprint/plutoprint](https://github.com/plutoprint/plutoprint)
 - [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
