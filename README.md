@@ -1,3 +1,4 @@
+- [frankovo/dns-benchmark-tool](https://github.com/frankovo/dns-benchmark-tool)
 - [karminski/one-small-step](https://github.com/karminski/one-small-step)
 - [karminski/one-small-step](https://github.com/karminski/one-small-step)
 - [facebookresearch/hydra](https://github.com/facebookresearch/hydra)
