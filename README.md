@@ -1,3 +1,4 @@
+- [rendercv/rendercv](https://github.com/rendercv/rendercv)
 - [Anionex/banana-slides](https://github.com/Anionex/banana-slides)
 - [frankovo/dns-benchmark-tool](https://github.com/frankovo/dns-benchmark-tool)
 - [karminski/one-small-step](https://github.com/karminski/one-small-step)
