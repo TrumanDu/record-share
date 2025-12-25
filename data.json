@@ -214,5 +214,11 @@
     "title": "rendercv/rendercv",
     "url": "https://github.com/rendercv/rendercv",
     "timestamp": 1766630279
+  },
+  {
+    "month": "202512",
+    "title": "google/langextract: A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+    "url": "https://github.com/google/langextract",
+    "timestamp": 1766631353
   }
 ]
