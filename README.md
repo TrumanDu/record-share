@@ -1,3 +1,4 @@
+- [bylinxx/MacCalendar](https://github.com/bylinxx/MacCalendar)
 - [9bingyin/Gist](https://github.com/9bingyin/Gist)
 - [google/langextract: A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.](https://github.com/google/langextract)
 - [rendercv/rendercv](https://github.com/rendercv/rendercv)
