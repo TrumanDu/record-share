@@ -1,3 +1,4 @@
+- [debugtheworldbot/keyStats](https://github.com/debugtheworldbot/keyStats)
 - [Storyset | Customize, animate and download illustration for free](https://storyset.com/)
 - [Storyset | Customize, animate and download illustration for free](https://storyset.com/)
 - [bylinxx/MacCalendar](https://github.com/bylinxx/MacCalendar)
