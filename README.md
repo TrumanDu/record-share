@@ -1,3 +1,4 @@
+- [Gemini Watermark Remover - Lossless Watermark Removal Tool](https://banana.ovo.re/)
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX)
 - [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer)
 - [ddlmanus/MacOptimizer](https://github.com/ddlmanus/MacOptimizer)
