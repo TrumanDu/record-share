@@ -1,3 +1,4 @@
+- [lakernote/EasyPostman](https://github.com/lakernote/EasyPostman)
 - [jsattler/BetterCapture](https://github.com/jsattler/BetterCapture)
 - [Gemini Watermark Remover - Lossless Watermark Removal Tool](https://banana.ovo.re/)
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX)
