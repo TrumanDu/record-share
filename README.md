@@ -1,3 +1,4 @@
+- [MoePeek/README_zh.md at main · cosZone/MoePeek](https://github.com/cosZone/MoePeek/blob/main/README_zh.md)
 - [lakernote/EasyPostman](https://github.com/lakernote/EasyPostman)
 - [jsattler/BetterCapture](https://github.com/jsattler/BetterCapture)
 - [Gemini Watermark Remover - Lossless Watermark Removal Tool](https://banana.ovo.re/)
