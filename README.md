@@ -1,3 +1,4 @@
+- [joeseesun/terminal-boost](https://github.com/joeseesun/terminal-boost)
 - [cosZone/MoePeek](https://github.com/cosZone/MoePeek)
 - [ScreenKite — Free, Native macOS Screen Recorder (Fast & Native)](https://www.screenkite.com/zh-CN)
 - [Picture View](https://wl879.github.io/apps/picview/index.html)
