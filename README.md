@@ -1,3 +1,4 @@
+- [Picture View](https://wl879.github.io/apps/picview/index.html)
 - [JOYCEQL/magic-resume](https://github.com/JOYCEQL/magic-resume)
 - [wzh4869/AppPorts](https://github.com/wzh4869/AppPorts)
 - [joeseesun/terminal-boost](https://github.com/joeseesun/terminal-boost)
