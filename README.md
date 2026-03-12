@@ -1,3 +1,4 @@
+- [SuperCmdLabs/SuperCmd](https://github.com/SuperCmdLabs/SuperCmd)
 - [joeseesun/terminal-boost](https://github.com/joeseesun/terminal-boost)
 - [cosZone/MoePeek](https://github.com/cosZone/MoePeek)
 - [ScreenKite — Free, Native macOS Screen Recorder (Fast & Native)](https://www.screenkite.com/zh-CN)
