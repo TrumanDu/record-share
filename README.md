@@ -1,3 +1,4 @@
+- [cosZone/MoePeek](https://github.com/cosZone/MoePeek)
 - [ScreenKite — Free, Native macOS Screen Recorder (Fast & Native)](https://www.screenkite.com/zh-CN)
 - [Picture View](https://wl879.github.io/apps/picview/index.html)
 - [JOYCEQL/magic-resume](https://github.com/JOYCEQL/magic-resume)
