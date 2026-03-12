@@ -1,3 +1,4 @@
+- [ScreenKite — Free, Native macOS Screen Recorder (Fast & Native)](https://www.screenkite.com/zh-CN)
 - [Picture View](https://wl879.github.io/apps/picview/index.html)
 - [JOYCEQL/magic-resume](https://github.com/JOYCEQL/magic-resume)
 - [wzh4869/AppPorts](https://github.com/wzh4869/AppPorts)
