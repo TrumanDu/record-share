@@ -1,3 +1,4 @@
+- [UI UX Pro Max - Design Intelligence for Claude Code](https://ui-ux-pro-max-skill.nextlevelbuilder.io/#how-it-works)
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
 - [你不知道的 Claude Code：架构、治理与工程实践 - Tw93](https://tw93.fun/2026-03-12/claude.html)
 - [SuperCmdLabs/SuperCmd](https://github.com/SuperCmdLabs/SuperCmd)
