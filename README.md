@@ -1,3 +1,4 @@
+- [obra/superpowers](https://github.com/obra/superpowers)
 - [nextlevelbuilder/ui-ux-pro-max-skill: An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
 - [UI UX Pro Max - Design Intelligence for Claude Code](https://ui-ux-pro-max-skill.nextlevelbuilder.io/#how-it-works)
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
