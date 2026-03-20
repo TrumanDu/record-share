@@ -1,3 +1,4 @@
+- [解剖小龍蝦 — 以 OpenClaw 為例介紹 AI Agent 的運作原理 - YouTube](https://www.youtube.com/watch?v=2rcJdFuNbZQ)
 - [QuantumNous/new-api](https://github.com/QuantumNous/new-api)
 - [CanIRun.ai — Can your machine run AI models?](https://canirun.ai/)
 - [Apple Matting - 专业的 macOS 原生智能抠图工具](https://matting.lingxiangtools.top/#how-it-works)
