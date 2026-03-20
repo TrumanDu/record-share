@@ -1,3 +1,4 @@
+- [Apple Matting - 专业的 macOS 原生智能抠图工具](https://matting.lingxiangtools.top/#how-it-works)
 - [obra/superpowers](https://github.com/obra/superpowers)
 - [nextlevelbuilder/ui-ux-pro-max-skill: An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
 - [UI UX Pro Max - Design Intelligence for Claude Code](https://ui-ux-pro-max-skill.nextlevelbuilder.io/#how-it-works)
