@@ -1,3 +1,4 @@
+- [better-auth/better-icons](https://github.com/better-auth/better-icons)
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
 - [ibelick/ui-skills](https://github.com/ibelick/ui-skills)
 - [#338 Design Skills | DEX 周刊](https://quaily.com/dingyi/p/338)
