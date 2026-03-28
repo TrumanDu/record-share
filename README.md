@@ -1,3 +1,4 @@
+- [#338 Design Skills | DEX 周刊](https://quaily.com/dingyi/p/338)
 - [lijigang/ljg-skills](https://github.com/lijigang/ljg-skills)
 - [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills)
 - [解剖小龍蝦 — 以 OpenClaw 為例介紹 AI Agent 的運作原理 - YouTube](https://www.youtube.com/watch?v=2rcJdFuNbZQ)
