@@ -1,3 +1,4 @@
+- [tw93/Waza](https://github.com/tw93/Waza)
 - [docmd-io/docmd](https://github.com/docmd-io/docmd)
 - [carmahhawwari/ui-design-brain](https://github.com/carmahhawwari/ui-design-brain)
 - [better-auth/better-icons](https://github.com/better-auth/better-icons)
