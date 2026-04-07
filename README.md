@@ -1,3 +1,4 @@
+- [docmd-io/docmd](https://github.com/docmd-io/docmd)
 - [carmahhawwari/ui-design-brain](https://github.com/carmahhawwari/ui-design-brain)
 - [better-auth/better-icons](https://github.com/better-auth/better-icons)
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
