@@ -1,3 +1,4 @@
+- [深度解析 OpenClaw 在 Prompt / Context / Harness 三个维度中的设计哲学与实践](https://mp.weixin.qq.com/s/JycTfNd7EnmWCnJK-QCf0Q)
 - [tw93/Waza](https://github.com/tw93/Waza)
 - [docmd-io/docmd](https://github.com/docmd-io/docmd)
 - [carmahhawwari/ui-design-brain](https://github.com/carmahhawwari/ui-design-brain)
