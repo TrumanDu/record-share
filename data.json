@@ -394,5 +394,11 @@
     "title": "tw93/Waza",
     "url": "https://github.com/tw93/Waza",
     "timestamp": 1775552044
+  },
+  {
+    "month": "202604",
+    "title": "深度解析 OpenClaw 在 Prompt / Context / Harness 三个维度中的设计哲学与实践",
+    "url": "https://mp.weixin.qq.com/s/JycTfNd7EnmWCnJK-QCf0Q",
+    "timestamp": 1776090368
   }
 ]
