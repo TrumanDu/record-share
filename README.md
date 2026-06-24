@@ -1,3 +1,4 @@
+- [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)
 - [iliyami/MacSai: Mac Sai: the open-source Mac cleaner, optimizer, and malware scanner. A free, Apple-notarized alternative to CleanMyMac, built with Swift 6 and SwiftUI.](https://github.com/iliyami/MacSai)
 - [OpenBMB/MiniCPM-Desk-Pet](https://github.com/OpenBMB/MiniCPM-Desk-Pet)
 - [wiltodelta/remove-ai-watermarks: CLI and Python library to strip visible and invisible AI watermarks and provenance metadata (SynthID, C2PA, EXIF/XMP "Made with AI", Gemini sparkle) from AI-generated images](https://github.com/wiltodelta/remove-ai-watermarks)
