@@ -1,3 +1,4 @@
+- [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui)
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
 - [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)
 - [iliyami/MacSai: Mac Sai: the open-source Mac cleaner, optimizer, and malware scanner. A free, Apple-notarized alternative to CleanMyMac, built with Swift 6 and SwiftUI.](https://github.com/iliyami/MacSai)
