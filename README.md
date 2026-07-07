@@ -1,3 +1,4 @@
+- [browser-act/skills](https://github.com/browser-act/skills)
 - [nexmoe/VidBee](https://github.com/nexmoe/VidBee)
 - [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui)
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
