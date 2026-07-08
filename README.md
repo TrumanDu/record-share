@@ -5,7 +5,7 @@
 - [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)
 - [iliyami/MacSai: Mac Sai: the open-source Mac cleaner, optimizer, and malware scanner. A free, Apple-notarized alternative to CleanMyMac, built with Swift 6 and SwiftUI.](https://github.com/iliyami/MacSai)
 - [OpenBMB/MiniCPM-Desk-Pet](https://github.com/OpenBMB/MiniCPM-Desk-Pet)
-- [wiltodelta/remove-ai-watermarks: CLI and Python library to strip visible and invisible AI watermarks and provenance metadata (SynthID, C2PA, EXIF/XMP "Made with AI", Gemini sparkle) from AI-generated images](https://github.com/wiltodelta/remove-ai-watermarks)
+- [wiltodelta/remove-ai-watermarks: AI watermark remover. CLI and Python library to strip visible and invisible AI watermarks (Gemini / Nano Banana sparkle, SynthID) and provenance metadata (C2PA, EXIF, IPTC) from images.](https://github.com/wiltodelta/remove-ai-watermarks)
 - [深度解析 OpenClaw 在 Prompt / Context / Harness 三个维度中的设计哲学与实践](https://mp.weixin.qq.com/s/JycTfNd7EnmWCnJK-QCf0Q)
 - [tw93/Waza](https://github.com/tw93/Waza)
 - [docmd-io/docmd](https://github.com/docmd-io/docmd)
