@@ -442,5 +442,11 @@
     "title": "browser-act/skills",
     "url": "https://github.com/browser-act/skills",
     "timestamp": 1783421154
+  },
+  {
+    "month": "202607",
+    "title": "wiltodelta/remove-ai-watermarks: AI watermark remover. CLI and Python library to strip visible and invisible AI watermarks (Gemini / Nano Banana sparkle, SynthID) and provenance metadata (C2PA, EXIF, IPTC) from images.",
+    "url": "https://github.com/wiltodelta/remove-ai-watermarks",
+    "timestamp": 1783469843
   }
 ]
