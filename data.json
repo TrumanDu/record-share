@@ -448,5 +448,11 @@
     "title": "wiltodelta/remove-ai-watermarks: AI watermark remover. CLI and Python library to strip visible and invisible AI watermarks (Gemini / Nano Banana sparkle, SynthID) and provenance metadata (C2PA, EXIF, IPTC) from images.",
     "url": "https://github.com/wiltodelta/remove-ai-watermarks",
     "timestamp": 1783469843
+  },
+  {
+    "month": "202607",
+    "title": "facebook/astryx",
+    "url": "https://github.com/facebook/astryx",
+    "timestamp": 1783729678
   }
 ]
