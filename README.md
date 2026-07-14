@@ -1,3 +1,4 @@
+- [yetone/kill-ai-slop](https://github.com/yetone/kill-ai-slop)
 - [Taste — Design DNA for Agents](https://www.tastelab.xyz/)
 - [facebook/astryx](https://github.com/facebook/astryx)
 - [browser-act/skills](https://github.com/browser-act/skills)
