@@ -1,3 +1,4 @@
+- [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre)
 - [Nutlope/hallmark](https://github.com/Nutlope/hallmark)
 - [yetone/kill-ai-slop](https://github.com/yetone/kill-ai-slop)
 - [Taste — Design DNA for Agents](https://www.tastelab.xyz/)
