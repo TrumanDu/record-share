@@ -1,3 +1,4 @@
+- [MartinDelophy/ai-video-editor](https://github.com/MartinDelophy/ai-video-editor)
 - [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre)
 - [Nutlope/hallmark](https://github.com/Nutlope/hallmark)
 - [yetone/kill-ai-slop](https://github.com/yetone/kill-ai-slop)
