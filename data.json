@@ -508,5 +508,11 @@
     "title": "AI 产品经理课程完整目录 · 大模型原理与 AI Harness",
     "url": "https://xueai.app/slides/llm-story.html",
     "timestamp": 1784956089
+  },
+  {
+    "month": "202607",
+    "title": "DietrichGebert/ponytail",
+    "url": "https://github.com/DietrichGebert/ponytail",
+    "timestamp": 1784971179
   }
 ]
