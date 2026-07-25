@@ -1,3 +1,4 @@
+- [AI 产品经理课程完整目录 · 大模型原理与 AI Harness](https://xueai.app/slides/llm-story.html)
 - [Design Engineer Tools](https://designengineer.tools/)
 - [思辨录 — 逻辑谬误与认知偏见的批判性思维指南](https://mind-guards.com/)
 - [norahe0304-art/30x-video](https://github.com/norahe0304-art/30x-video)
