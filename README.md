@@ -1,3 +1,4 @@
+- [思辨录 — 逻辑谬误与认知偏见的批判性思维指南](https://mind-guards.com/)
 - [norahe0304-art/30x-video](https://github.com/norahe0304-art/30x-video)
 - [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed)
 - [MartinDelophy/ai-video-editor](https://github.com/MartinDelophy/ai-video-editor)
