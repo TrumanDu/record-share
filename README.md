@@ -1,3 +1,4 @@
+- [stonerl/Thaw](https://github.com/stonerl/Thaw?utm_source=chatgpt.com)
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
 - [AI 产品经理课程完整目录 · 大模型原理与 AI Harness](https://xueai.app/slides/llm-story.html)
 - [Design Engineer Tools](https://designengineer.tools/)
