@@ -1,3 +1,4 @@
+- [nyblnet/bento](https://github.com/nyblnet/bento)
 - [AnalyseDeCircuit/oxideterm](https://github.com/AnalyseDeCircuit/oxideterm)
 - [stonerl/Thaw](https://github.com/stonerl/Thaw?utm_source=chatgpt.com)
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
