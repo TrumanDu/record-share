@@ -1,3 +1,4 @@
+- [Emily2040/seedance-2.0](https://github.com/Emily2040/seedance-2.0)
 - [nyblnet/bento](https://github.com/nyblnet/bento)
 - [AnalyseDeCircuit/oxideterm](https://github.com/AnalyseDeCircuit/oxideterm)
 - [stonerl/Thaw](https://github.com/stonerl/Thaw?utm_source=chatgpt.com)
