@@ -1,3 +1,4 @@
+- [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)
 - [Moeka - Markdown Editor](https://moeka.app/en)
 - [Moeka - Markdown Editor](https://moeka.app/en)
 - [didriksg/Crisp: Free, open-source external monitor control for macOS: a lightweight menu bar app with sharp HiDPI/Retina scaling (no more blurry or tiny text), DDC brightness, presets, and virtual displays. A free alternative to BetterDisplay and Lunar, including features they charge for.](https://github.com/didriksg/Crisp)
