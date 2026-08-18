@@ -1,3 +1,4 @@
+- [rohitg00/ai-engineering-from-scratch: Learn it. Build it. Ship it for others.](https://github.com/rohitg00/ai-engineering-from-scratch/tree/main)
 - [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)
 - [Moeka - Markdown Editor](https://moeka.app/en)
 - [Moeka - Markdown Editor](https://moeka.app/en)
