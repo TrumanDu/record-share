@@ -1,3 +1,4 @@
+- [vastsa/PI-Desktop: Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins](https://github.com/vastsa/PI-Desktop/tree/main)
 - [alchaincyf/huashu-report](https://github.com/alchaincyf/huashu-report)
 - [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli)
 - [vorssaintapp/vorssaint-utils](https://github.com/vorssaintapp/vorssaint-utils)
