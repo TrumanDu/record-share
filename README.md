@@ -1,3 +1,4 @@
+- [alchaincyf/huashu-report](https://github.com/alchaincyf/huashu-report)
 - [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli)
 - [vorssaintapp/vorssaint-utils](https://github.com/vorssaintapp/vorssaint-utils)
 - [rohitg00/ai-engineering-from-scratch: Learn it. Build it. Ship it for others.](https://github.com/rohitg00/ai-engineering-from-scratch/tree/main)
