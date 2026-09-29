@@ -1,3 +1,4 @@
+- [fif7y/pelmet](https://github.com/fif7y/pelmet)
 - [himovo/movo](https://github.com/himovo/movo)
 - [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)
 - [vastsa/PI-Desktop: Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins](https://github.com/vastsa/PI-Desktop/tree/main)
