@@ -1,3 +1,4 @@
+- [DayuanJiang/PecoFence: A free, open-source Stardock Fences alternative for Windows 11. Glass fences, live folders, tabs, Peek. Rust, ten languages, portable.](https://github.com/DayuanJiang/PecoFence/blob/main/docs/readme/README.zh-CN.md)
 - [gentpan/LiteZip](https://github.com/gentpan/LiteZip)
 - [corvofeng/atv-core](https://github.com/corvofeng/atv-core)
 - [storytold/photocraft](https://github.com/storytold/photocraft)
