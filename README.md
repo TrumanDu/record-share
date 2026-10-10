@@ -1,3 +1,4 @@
+- [gentpan/LiteZip](https://github.com/gentpan/LiteZip)
 - [corvofeng/atv-core](https://github.com/corvofeng/atv-core)
 - [storytold/photocraft](https://github.com/storytold/photocraft)
 - [Cloudflare Quick Tunnels](https://try.cloudflare.com/)
