@@ -1,3 +1,4 @@
+- [storytold/photocraft](https://github.com/storytold/photocraft)
 - [Cloudflare Quick Tunnels](https://try.cloudflare.com/)
 - [fif7y/pelmet](https://github.com/fif7y/pelmet)
 - [himovo/movo](https://github.com/himovo/movo)
