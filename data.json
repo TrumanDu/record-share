@@ -664,5 +664,11 @@
     "title": "anthropics/sandbox-runtime",
     "url": "https://github.com/anthropics/sandbox-runtime",
     "timestamp": 1792400259
+  },
+  {
+    "month": "202610",
+    "title": "cclank/quickshot: Screenshots, beautifully simple. A fast, local-first screenshot tool for macOS and Windows: hover to capture windows, annotate, beautify and stitch.",
+    "url": "https://github.com/cclank/quickshot",
+    "timestamp": 1793166895
   }
 ]
