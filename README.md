@@ -1,3 +1,4 @@
+- [19y/ShaiWin](https://github.com/19y/ShaiWin)
 - [memvid/memvid](https://github.com/memvid/memvid)
 - [PGshen/vs-idea-gittool](https://github.com/PGshen/vs-idea-gittool)
 - [cclank/quickshot: Screenshots, beautifully simple. A fast, local-first screenshot tool for macOS and Windows: hover to capture windows, annotate, beautify and stitch.](https://github.com/cclank/quickshot)
