@@ -1,3 +1,4 @@
+- [PGshen/vs-idea-gittool](https://github.com/PGshen/vs-idea-gittool)
 - [cclank/quickshot: Screenshots, beautifully simple. A fast, local-first screenshot tool for macOS and Windows: hover to capture windows, annotate, beautify and stitch.](https://github.com/cclank/quickshot)
 - [anthropics/sandbox-runtime](https://github.com/anthropics/sandbox-runtime)
 - [xerj-org/xerj](https://github.com/xerj-org/xerj)
