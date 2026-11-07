@@ -1,3 +1,4 @@
+- [heydamir/unslop](https://github.com/heydamir/unslop)
 - [19y/ShaiWin](https://github.com/19y/ShaiWin)
 - [memvid/memvid](https://github.com/memvid/memvid)
 - [PGshen/vs-idea-gittool](https://github.com/PGshen/vs-idea-gittool)
