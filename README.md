@@ -1,3 +1,4 @@
+- [CX-ArtLab/BoopFace: BoopFace (formerly Agent Robot Avatar): a lightweight, expressive robot avatar component for AI bots, agents and interactive apps.](https://github.com/CX-ArtLab/BoopFace)
 - [heydamir/unslop](https://github.com/heydamir/unslop)
 - [19y/ShaiWin](https://github.com/19y/ShaiWin)
 - [memvid/memvid](https://github.com/memvid/memvid)
