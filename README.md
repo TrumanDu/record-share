@@ -1,3 +1,4 @@
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
 - [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
 - [CX-ArtLab/BoopFace: BoopFace (formerly Agent Robot Avatar): a lightweight, expressive robot avatar component for AI bots, agents and interactive apps.](https://github.com/CX-ArtLab/BoopFace)
 - [heydamir/unslop](https://github.com/heydamir/unslop)
